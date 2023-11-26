@@ -1,2 +1,3 @@
 # GIT WEB APPLICATON https://github.com/AzrailVOI/Transactions-web-app.git
-# GIT SERVER (C#) https://github.com/RowaEremkin/CSharpServer.git
+# GIT API SERVER (ASP.NET (C#)) https://github.com/RowaEremkin/CSharpServer.git
+# GIT ANALITICAL SERVER (Flask (Python)) https://github.com/Olezhantsiy/AnalyticalServer.git
